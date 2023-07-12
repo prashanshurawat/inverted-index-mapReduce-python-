@@ -1,0 +1,6 @@
+red: 1
+color: 1
+and: 2
+greatness: 2
+faith: 3
+not: 3

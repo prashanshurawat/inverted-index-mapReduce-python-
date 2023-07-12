@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+package master_map;
+
+service map{
+  rpc inputSplits(input_map) returns(input_response) {}
+  rpc reducer_inputs(input_split) returns(input_response) {}
+}
+
+message input_map {
+  map<string, input_split> index_map = 1;
+}
+
+message input_split {
+  repeated string input= 1;
+}
+
+message input_response {
+  string response = 1;
+}

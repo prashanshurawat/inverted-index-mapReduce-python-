@@ -1,0 +1,8 @@
+apple: 1
+apple: 1
+are: 2
+great: 2
+achieve: 2
+greatness: 2
+faith: 3
+faith: 3

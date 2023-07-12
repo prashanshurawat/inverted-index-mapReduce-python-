@@ -1,0 +1,7 @@
+in: 1 
+others: 2 
+have: 2 
+thrust: 2 
+upon: 2 
+work: 3 
+is: 3 
